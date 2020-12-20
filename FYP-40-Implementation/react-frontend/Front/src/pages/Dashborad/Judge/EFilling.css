@@ -1,0 +1,39 @@
+.case-accept{
+    margin-top:-80px
+}
+.accept {
+    margin: 20px;
+    background-color: rgb(37, 219, 37);
+  
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    border-color: yellow;
+  }
+  .dismiss {
+    margin: 13px 12px 12px 30px;
+    background-color: red;
+  
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    border-color: yellow;
+  }
+  .Refer {
+    margin: 13px 12px 12px 50px;
+    background-color: blue;
+  
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    border-color: yellow;
+  }

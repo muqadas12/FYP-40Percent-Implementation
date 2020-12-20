@@ -1,0 +1,67 @@
+.r-image{
+    margin-top: -80px;
+    /* margin-left: 30px; */
+    width: 100%;
+}
+
+
+.h{
+    margin-top: -50%s;
+}
+
+
+.buttonn1 {
+    position:absolute;
+    right:50%;
+    bottom: 20%;
+    width: 18%;
+    left: 50%;
+    height: 10%;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    background-color: brown;
+    border-color: brown;
+    
+    
+}
+.button2 {
+
+    position:absolute;
+    right:50%;
+    bottom: 39%;
+    width: 18%;
+    left: 60%;
+    height: 10%;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+    border-color: blue;
+  
+
+}
+.button3 {
+    position:absolute;
+    right:50%;
+    top:50%;
+    width: 18%;
+    height: 10%;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: purple;
+    border-color: purple;
+    color: white;
+}
+
+
+.material-icons{
+    /* margin-bottom: -40px; */
+    height: 60%;
+}
